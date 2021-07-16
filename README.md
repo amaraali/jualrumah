@@ -1,7 +1,7 @@
-# Web Toko Sembako Rifan Jaya Bogor (tugas kampus). 
+# Tugas RPL. 
 
-## Menggunakan:
+###Login as admin
+###username : admin@gmail.com pass : admin
+###Login as cust
+###username : dinta@gmail.com pass : 123
 
-### XAMPP 7.4.5, 
-### PHP 7.1.33, 
-### CodeIgniter 3 dan Bootsrap 4
